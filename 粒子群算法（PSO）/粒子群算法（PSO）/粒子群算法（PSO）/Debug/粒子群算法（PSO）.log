@@ -1,0 +1,8 @@
+﻿  PSO.c
+e:\编程文件\粒子群算法（pso）\粒子群算法（pso）\粒子群算法（pso）\pso.c(61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\编程文件\粒子群算法（pso）\粒子群算法（pso）\粒子群算法（pso）\pso.c(62): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\编程文件\粒子群算法（pso）\粒子群算法（pso）\粒子群算法（pso）\pso.c(84): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\编程文件\粒子群算法（pso）\粒子群算法（pso）\粒子群算法（pso）\pso.c(121): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\编程文件\粒子群算法（pso）\粒子群算法（pso）\粒子群算法（pso）\pso.c(137): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\编程文件\粒子群算法（pso）\粒子群算法（pso）\粒子群算法（pso）\pso.c(138): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  粒子群算法（PSO）.vcxproj -> E:\编程文件\粒子群算法（PSO）\粒子群算法（PSO）\Debug\粒子群算法（PSO）.exe
